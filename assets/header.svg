@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Mehmet Apak</title>
-  <desc id="desc">Open-source tools for structured AI-assisted development</desc>
+  <desc id="desc">Mobile apps, SaaS products, and open-source developer tools</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -23,7 +23,7 @@
     <path d="M39 8v62M8 39h62M17 17l44 44M61 17L17 61" opacity=".55"/>
   </g>
   <text x="600" y="130" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="48" font-weight="700">Mehmet Apak</text>
-  <text x="600" y="181" text-anchor="middle" fill="#b6beca" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="21" letter-spacing="1">OPEN-SOURCE · AI ORCHESTRATION · DEVELOPER TOOLS</text>
+  <text x="600" y="181" text-anchor="middle" fill="#b6beca" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="21" letter-spacing="1">MOBILE APPS · SAAS PRODUCTS · OPEN SOURCE</text>
   <g transform="translate(1026 111)" fill="none" stroke="#a78bfa" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="39" cy="39" r="31"/>
     <path d="M39 8v62M8 39h62M17 17l44 44M61 17L17 61" opacity=".55"/>

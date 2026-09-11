@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Building open-source tools that make AI-assisted software development more structured, reviewable, and easier to control.</strong>
+  <strong>Building mobile apps, SaaS products, and open-source developer tools.</strong>
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## About
 
-I'm Mehmet Apak. I work on practical orchestration tools for AI-assisted software development, with a focus on clear ownership, bounded workflows, independent verification, and safe defaults.
+I'm Mehmet Apak, an entrepreneur building mobile apps, SaaS products, and practical developer tools. I enjoy turning useful ideas into focused products and sharing selected parts of that work as open source.
 
-My current projects provide ready-to-use team structures for **OpenAI Codex** and **Claude Code**. They are independent community projects and are not affiliated with or endorsed by OpenAI or Anthropic.
+My current open-source work explores structured AI-assisted software development. These projects provide ready-to-use team structures for **OpenAI Codex** and **Claude Code**. They are independent community projects and are not affiliated with or endorsed by OpenAI or Anthropic.
 
 ## Featured projects
 
@@ -37,12 +37,11 @@ Both projects include English and Turkish documentation, cross-platform installe
 
 ## Türkçe
 
-Merhaba, ben Mehmet Apak. Yapay zekâ destekli yazılım geliştirme süreçlerini daha düzenli, denetlenebilir ve kontrollü hâle getiren açık kaynak araçlar geliştiriyorum.
+Merhaba, ben Mehmet Apak. Mobil uygulamalar, SaaS ürünleri ve geliştiricilere yönelik araçlar üreten bir girişimciyim. Faydalı fikirleri sade ve kullanılabilir ürünlere dönüştürmeye, çalışmalarımın uygun bölümlerini açık kaynak olarak paylaşmaya odaklanıyorum.
 
-Şu anda Codex ve Claude Code için; inceleme, uygulama ve kontrol görevlerini birbirinden ayıran iki orkestrasyon projesi üzerinde çalışıyorum:
+Güncel açık kaynak çalışmalarım arasında Codex ve Claude Code için; inceleme, uygulama ve kontrol görevlerini birbirinden ayıran iki orkestrasyon projesi bulunuyor:
 
 - [Codex Bounded Orchestrator — Türkçe](https://github.com/metapak/codex-bounded-orchestrator/blob/main/README.tr.md)
 - [Claude Bounded Orchestrator — Türkçe](https://github.com/metapak/claude-bounded-orchestrator/blob/main/README.tr.md)
 
 Görüş, hata bildirimi ve katkılarınızı ilgili projenin GitHub sayfasından paylaşabilirsiniz.
-
